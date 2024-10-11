@@ -1,4 +1,6 @@
 ## Hi there, I'm CHEGE KARANGA👋
+<!--![Profile Views](https://hits.dwyl.com/Chegefranklynn/Chegefranklynn.svg?style=flat-square)-->
+
 
 - 🔭 I’m currently working on PHP-based full-stack applications, focusing on efficient back-end systems.
 - 🌱 I’m currently learning  **AI** and **prompt engineering**, and delving into **data analysis** with a focus on **data visualization** to better understand and present data insights.
