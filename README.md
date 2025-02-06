@@ -3,10 +3,9 @@
 
 
 - 🔭 I’m currently working on PHP-based full-stack applications, focusing on efficient back-end systems.
-- 🌱 I’m currently learning  **AI** and **prompt engineering**, and delving into **data analysis** with a focus on **data visualization** to better understand and present data insights.
-- 👯 I’m looking to collaborate on projects that involve building APIs, web apps, user authentication, **permission roles**, and integrations with databases.
-  
-- 📫 How to reach me📧chegefranklynn@gmail.com
+- 🌱 I’m currently learning  **system design**, **Design patterns** and delving into **data analysis** with a focus on **data visualization** to better understand and present data insights.
+
+  - 📫 How to reach me📧chegefranklynn@gmail.com
 
   ### 🛠 Tech Stack
 
